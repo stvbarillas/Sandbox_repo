@@ -1,9 +1,3 @@
-Sample readme file
+Starting from scratch
 
-Added this line in my feature branch
-
-Added another line for good measure
-
-Added this line in release branch
-
-Added a release "bug fix" now. 
+Updating version numbers
